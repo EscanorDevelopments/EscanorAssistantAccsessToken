@@ -1,4 +1,30 @@
-[
-  { "username": "AthenaXDiego", "password": "251011" },
-  { "username": "Diego", "password": "Diego251011" }
-]
+{
+  "owner": [
+    {
+      "number": "6288976679490",
+      "name": "Diego",
+      "password": "Diego251011"
+    }
+  ],
+  "admin": [
+    {
+      "number": "-",
+      "name": "-",
+      "password": "--------------------------------------------------------"
+    }
+  ],
+  "premium": [
+    {
+      "number": "-",
+      "name": "-",
+      "password": "---------------------------------------------------------------"
+    }
+  ],
+  "reseller": [
+    {
+      "number": "-",
+      "name": "-",
+      "password": "------------------------------------"
+    }
+  ]
+}
