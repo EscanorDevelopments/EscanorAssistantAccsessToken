@@ -1,6 +1,6 @@
-[
-  { "username": "Diego", "password": "6288976679490", "role": "owner" },
-  { "username": "6281234567891", "password": "6281234567891", "role": "admin" },
-  { "username": "6281234567892", "password": "6281234567892", "role": "reseller" },
-  { "username": "6281234567893", "password": "6281234567893", "role": "user" }
-]
+{
+  "owner": [ { "number": "6288976679490", "password": "Diego251011" } ],
+  "admin": [ { "number": "6285678...", "password": "..." } ],
+  "reseller": [ { "number": "6289012...", "password": "..." } ],
+  "user": [ { "number": "6283456...", "password": "..." } ]
+}
