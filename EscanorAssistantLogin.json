@@ -1,13 +1,6 @@
-{
-  "owner": [
-    {
-      "number": "6288976679490",
-      "name": "Diego",
-      "password": "Diego251011"
-    }
-  ],
-  "admin": ["6288976679490@s.whatsapp.net"],
-  "premium": [],
-  "reseller": []
-}
-
+[
+  { "username": "Diego", "password": "6288976679490", "role": "owner" },
+  { "username": "6281234567891", "password": "6281234567891", "role": "admin" },
+  { "username": "6281234567892", "password": "6281234567892", "role": "reseller" },
+  { "username": "6281234567893", "password": "6281234567893", "role": "user" }
+]
